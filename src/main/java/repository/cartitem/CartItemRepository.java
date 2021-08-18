@@ -1,4 +1,4 @@
-package repository;
+package repository.cartitem;
 
 import entity.CartItem;
 import repository.base.BaseRepository;
